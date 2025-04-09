@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 final x2 branch
+=======
+branch merge test (main)
+>>>>>>> parent of 2c4e686 (final branch)
